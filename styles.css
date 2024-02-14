@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+table,th,tr{
+	border: 1px solid black;
+}
+th{
+	color:#c0504d;
+	text:white;
+	
+}
